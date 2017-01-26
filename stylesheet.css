@@ -1,0 +1,55 @@
+h1#mainTitle{
+	font-family:algerian, sans-serif;
+	text-align: center;
+	color: Gold;
+	
+}
+
+table#navigationTable{
+		font-family: algerian, sans-serif;
+		border-collapse: collapse;
+		width: 100%;
+		height: 40px;
+		
+}
+
+table#navigationTable th:hover {
+	color: Gold;
+}
+	
+th{
+		color: White;
+		text-align: center;
+		padding; 25px;
+		background-color: Teal;
+		font-size: 20px;
+}
+
+h2#sectionTitle{
+	color:White;
+	text-align:center;
+	text-decoration: underline;
+}
+
+body{
+	background-color: rgb(40,40,40)
+}
+
+p1#paragraph1{
+	color:white;
+	text-align: center;
+	margin:5%;
+}
+
+.specialGoldText{
+	color:Gold;
+}
+
+.specialLimeGreenText{
+	color:LimeGreen;
+}
+
+.specialLightGreyText{
+	color:LightGrey;
+}
+
